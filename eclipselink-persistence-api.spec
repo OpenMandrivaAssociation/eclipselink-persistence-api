@@ -7,7 +7,7 @@ Version:       2.0.5
 Release:       1.0%{?dist}
 Summary:       JPA 2.0 Spec OSGi Bundle
 License:       EPL and ASL 2.0
-URL:           http://www.eclipse.org/eclipselink/
+URL:           https://www.eclipse.org/eclipselink/
 #Source0:       https://github.com/eclipse/javax.persistence/archive/2.0.5.v201212031355.tar.gz
 Source0:       http://maven.eclipse.org/nexus/content/repositories/build/org/eclipse/persistence/%{oname}/%{namedversion}/%{oname}-%{namedversion}-sources.jar
 Source1:       http://maven.eclipse.org/nexus/content/repositories/build/org/eclipse/persistence/%{oname}/%{namedversion}/%{oname}-%{namedversion}.pom
